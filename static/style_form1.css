@@ -1,0 +1,101 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: white;
+	background-color: teal;
+}
+
+h1 {
+	font-size: 60px;
+	margin: 0px;
+	padding: 0px;
+}
+
+h2 {
+	font-size: 40px;
+	margin: 0px;
+	padding: 0px;
+}
+
+h3 {
+	margin: 0px;
+	padding: 0px;
+	color: #999;
+}
+
+h4 {
+	margin: 0px;
+	padding: 0px;
+}
+
+div.wrap {
+	width: 200px;
+	position: absolute;
+	top: 56%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+    vertical-align: middle;
+}
+
+div.wrap div {
+	position: relative;
+	margin: 50px 0;
+}
+
+div.wrap2 {
+	width: 200px;
+	position: absolute;
+	top: 50%;
+	left: 15%;
+	transform: translate(-50%, -50%);
+    vertical-align: middle;
+}
+
+div.wrap2 div {
+	position: relative;
+	margin: 50px 0;
+}
+
+div.wrap3 {
+	width: 200px;
+	position: absolute;
+	top: 44%;
+	left: 75%;
+	transform: translate(-50%, -50%);
+    vertical-align: middle;
+}
+
+div.wrap3 div {
+	position: relative;
+	margin: 50px 0;
+}
+
+label {
+	position: absolute;
+	top: 0;
+	font-size: 30px;
+	margin: 10px;
+	padding: 0 10px;
+	background-color: teal;
+	-webkit-transition: top .2s ease-in-out,
+	                    font-size .2s ease-in-out;
+	transition: top .2s ease-in-out,
+	            font-size .2s ease-in-out;
+}
+
+.active {
+	top: -25px;
+	font-size: 20 px;
+}
+
+input[type=text] {
+	width: 100%;
+	padding: 20px;
+	border: 1px solid white;
+	font-size: 20 px;
+	background-color: teal;
+	color: white;
+}
+input[type=text]:focus{
+	outline: none;
+}
+	
