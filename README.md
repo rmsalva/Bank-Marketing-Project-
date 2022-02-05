@@ -14,11 +14,18 @@ Un informe detallado de su anális en Bank-Marketing_TFM.ipynb y una página web
 
 # Software
 Este proyecto está escrito en python 3.5
+
 El código está en:
+
    -- Bank_Marketing_TFM.ipynb : notebook principal auto-explicativo con código en python 
-   -- modelos guardados en disco: carpeta models
-   -- Formulario web en carpeta templates
-   -- css y javascript del formulario web en carpeta static
+   
+   -- funtions.ipynb: notebook auxiliar con funciones auxiliares propias
+   
+   -- Carpeta models: modelos guardados en disco en formato pkl 
+   
+   -- Carpeta templates: Formulario web  en html 
+   
+   -- Carpeta static: css y javascript del formulario web 
 
 # Data Source
 
