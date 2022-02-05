@@ -1,6 +1,6 @@
 # Bank-Marketing-Project-
 
-Proyecto de  marketing bancario para una entidad bancaria portuguesa sobre la subripción
+Proyecto de  marketing bancario para una entidad bancaria portuguesa sobre la predicción de subscripción
 de un depósito a plazo fijo.
 
 # Sumario
