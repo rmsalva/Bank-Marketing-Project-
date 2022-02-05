@@ -6,7 +6,7 @@ de un depósito a plazo fijo.
 # Sumario
 Se pretende analizar el conjunto de datos y finalmente llevarlo a producción para predecir qué clientes 
  tienen alta probabilidad de subscripción a dicho depósito. 
-El informe del proyecto están tanto en pdf com html, además del formato original Bank-Marketing_TFM.ipynb
+El informe del proyecto está tanto en pdf com html, además del formato original Bank-Marketing_TFM.ipynb
 
 
 # Resultado 
